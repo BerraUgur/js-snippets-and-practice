@@ -18,7 +18,7 @@ A modern JavaScript project demonstrating ES6+ features and practical data analy
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/BerraUgur/odev1.git
+   git clone https://github.com/BerraUgur/js-snippets-and-practice.git
    ```
 2. Open the project folder in VS Code or your favorite editor.
 3. Run the JavaScript files using Node.js:
